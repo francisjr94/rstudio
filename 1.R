@@ -1,0 +1,1 @@
+print('Por que isso é tão complicado?')
